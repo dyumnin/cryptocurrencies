@@ -1,0 +1,27 @@
+#TOC
+# Introduction
+## Real world currencies
+## Cryptocurrencies
+## PoS PoW
+## Mining.
+## Stratum protocol
+## Hashing.
+
+# Design techniques.
+## Pipelining
+## Parallaism
+## Area vs Speed tradeoff
+## Memory intensive vs logic intensive algorithms.
+## Sharing onchip memory.
+## Sharing External memory
+
+# Upfront optimisation.
+## Identifying constants.
+## Deriving constants from algorithms.
+## Deriving intermediate constant values
+
+# Algorithms and their implementation.
+## SHA2
+## SHA3
+## scrypt
+## blake
