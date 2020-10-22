@@ -1,2 +1,2 @@
 # cryptocurrencies
-Book on cryptocurrency asics
+ASIC & FPGA Design For Cryptocurrency.
